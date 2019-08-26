@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Truyện</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on Truyện</description>
+    <title>Posts on Nghe đọc truyện</title>
+    <link>https://taminhluan.github.io/nghedoctruyen/post/</link>
+    <description>Recent content in Posts on Nghe đọc truyện</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Aug 2019 14:51:19 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://taminhluan.github.io/nghedoctruyen/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/post/test/</link>
+      <link>https://taminhluan.github.io/nghedoctruyen/post/test/</link>
       <pubDate>Mon, 26 Aug 2019 14:51:19 +0700</pubDate>
       
-      <guid>http://example.org/post/test/</guid>
+      <guid>https://taminhluan.github.io/nghedoctruyen/post/test/</guid>
       <description></description>
     </item>
     
